@@ -1,6 +1,6 @@
 
 
-# Blackjack Vit
+# Blackjack Vite
 
 Pasos para ejecutar proyecto:
 
